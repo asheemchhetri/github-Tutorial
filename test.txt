@@ -1,3 +1,0 @@
-Testing git add from university Linux systems. 
-Initially not allowing git add.
-Let see.
