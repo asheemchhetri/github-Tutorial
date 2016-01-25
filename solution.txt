@@ -16,4 +16,6 @@ Figured out the solution:
 10> git commit -m"Your personal message"
 11> IMPORATNT!
 12> Use this command to push: git push -u origin master
-13> That is it, we are good to go.
+13> Above command only need to be executed once.
+14> After that use git push as normal you would.
+15> That is it, we are good to go.
