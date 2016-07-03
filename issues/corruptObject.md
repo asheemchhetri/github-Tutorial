@@ -11,7 +11,7 @@
 
 # Issue 2: Corrupt Loose Object
 
-***
+---
 
 This issue happens, when we have a corrupt tree.
 
