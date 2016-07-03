@@ -25,6 +25,7 @@ Repository to original project: [github](https://github.com/asheemchhetri/codigr
   * In that folder there will be series of issues related to git hub, based
     on popularity or the ones I face during my personal use.
   * Looking at the file name, locate the issue you are facing and open it for any possible solutions available.
+  * Images are provided for issues, whenever possible.
 
 ---
 
