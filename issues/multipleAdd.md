@@ -40,3 +40,5 @@ eg:
 * git push
 
 Rest you get the idea.
+
+[Source](http://stackoverflow.com/questions/6919121/why-are-there-2-ways-to-unstage-a-file-in-git)
