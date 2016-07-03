@@ -15,7 +15,7 @@
 
 This issue happens, when we have a corrupt tree.
 
-![error example](picture/issue2.png)
+![error example](../picture/issue2.png)
 
 **Solution:** We have to re-clone the remote repository form the github, or if some one else has a non corrupted version, then the corrupted ones can be replaced but it is very unlikely.
 
