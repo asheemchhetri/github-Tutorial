@@ -20,14 +20,13 @@ So what if we modified files at different locations in our repository, which has
 eg:
 * I modified three files: f1.c, f2.c, f3.
 * I initiate the command: *git add **
-  * **(*)** is a wild card, that says add all changes made so far.
+  * * is a wild card, that says add all changes made so far.
 * I realize that I dont want to commit all files under **one** commit memo.
 
 ---
 
-**Solution**
-* Initiate this command: *git reset HEAD*
-* Run *git status* to make sure you see all modified files again as "Changes not staged for commit."
+* Initiate this command: _git reset HEAD_
+* Run _git status_ to make sure you see all modified files again as "Changes not staged for commit."
 * Once that is confirmed, go back to your terminal and individually add, commit and the push.
 ---
 eg:
