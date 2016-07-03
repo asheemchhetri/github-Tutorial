@@ -25,9 +25,10 @@ eg:
 
 ---
 
-* Initiate this command: _git reset HEAD_
-* Run _git status_ to make sure you see all modified files again as "Changes not staged for commit."
-Once that is confirmed, go back to your terminal and individually add, commit and the push.
+ * Initiate this command: _git reset HEAD_
+ * Run _git status_ to make sure you see all modified files again as "Changes not staged for commit."
+ * Once that is confirmed, go back to your terminal and individually add, commit and the push.
+ 
 ---
 eg:
 * git commit f**1**.c
