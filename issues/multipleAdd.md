@@ -20,7 +20,7 @@ So what if we modified files at different locations in our repository, which has
 eg:
 * I modified three files: f1.c, f2.c, f3.
 * I initiate the command: *git add **
-  * <*> is a wild card, that says add all changes made so far.
+  * **(*)** is a wild card, that says add all changes made so far.
 * I realize that I dont want to commit all files under **one** commit memo.
 
 ---
@@ -34,7 +34,9 @@ eg:
 * git commit f**1**.c
 * git commit -m"Modified f**1**.c, related to program ABC"
 * git push
+
 ---
+
 * git commit f**2**.c
 * git commit -m"Modified f**2**.c, related to program XYZ"
 * git push
